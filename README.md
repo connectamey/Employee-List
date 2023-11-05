@@ -37,10 +37,8 @@ The project follows the MVVM (Model-View-ViewModel) architecture and uses the fo
 - [Retrofit](https://square.github.io/retrofit/) for REST api communication
 - [Gson](https://github.com/google/gson) for serialization/deserialization of JSON
 - [Coroutine](https://kotlinlang.org/docs/coroutines-overview.html) for managing background threads
-
-## Screenshots
-
-Include a few screenshots of the app's UI here.
+- [Composable Table](https://github.com/sunny-chung/composable-table) to show table with automatic
+  layouts
 
 ## Author
 
@@ -58,7 +56,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact
 
 For questions about this project, please contact ameygotemail@gmail.com.
-
-## Additional Notes
-
-Any additional information about the project can be mentioned here.
