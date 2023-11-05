@@ -13,6 +13,10 @@ the specified criteria:
 - Items with a blank or null "name" are filtered out.
 - Data is displayed to the user in an easy-to-read list.
 
+## Demo Video
+
+- [Loom](https://www.loom.com/share/05c316e41c554f74baa2b87efb31de54) See app in action
+
 ## Building the Project
 
 To build the project:
